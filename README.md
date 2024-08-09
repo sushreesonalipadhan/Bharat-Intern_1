@@ -1,1 +1,2 @@
-# Bharat_Intern
+# Bharat_Intern Task 1
+Titanic Classification - Develop a predictive model using data science techniques in Python to assess the likelihood of survival for passengers aboard the Titanic. This project will involve data preprocessing, exploratory data analysis, feature engineering, and the application of machine learning algorithms to create an accurate classification model. The goal is to analyze the Titanic dataset and provide insights into the factors that influenced survival rates.
